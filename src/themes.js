@@ -3,14 +3,14 @@ const themes = {
     containerBackgroundColor: "#000",
     titleTextColor: "#FFF",
     buttonBackgroundColor: "#666",
-    buttonTextColor: "#FFF"
+    buttonTextColor: "#FFF",
   },
   light: {
     containerBackgroundColor: "#EEE",
     titleTextColor: "#000",
     buttonBackgroundColor: "#CCC",
-    buttonTextColor: "#000"
-  }
+    buttonTextColor: "#000",
+  },
 };
 
 export default themes;
